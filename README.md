@@ -154,11 +154,11 @@ Screenshots of the dashboard will be added here.
 
 ### EM Certification Report
 
-![EM Certification Report](Certification_Project.pbix)
+![EM Certification Report](Enterprise_Management_Certification_Report.png
 
 ### Technology Certification Report
 
-![Technology Certification Report](Enterprise_Management_Certification_Report.png)
+![Technology Certification Report](Technology_Certification_Report.png)
 
 ## 📂 Project Structure
 
