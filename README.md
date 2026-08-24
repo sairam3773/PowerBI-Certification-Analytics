@@ -1,4 +1,3 @@
-# PowerBI-Certification-Analytics
 Employee Certification Analytics Dashboard using Power BI
 # Power BI Certification Analytics Dashboard
 
