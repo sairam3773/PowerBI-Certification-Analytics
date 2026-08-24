@@ -154,7 +154,7 @@ Screenshots of the dashboard will be added here.
 
 ### EM Certification Report
 
-![EM Certification Report](Enterprise_Management_Certification_Report.png
+![EM Certification Report](Enterprise_Management_Certification_Report.png)
 
 ### Technology Certification Report
 
